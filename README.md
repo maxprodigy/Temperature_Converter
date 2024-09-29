@@ -21,10 +21,14 @@ This Flutter app provides a user-friendly interface for converting temperatures 
 - Tap the "Convert" button.
 - The converted temperature will be displayed, rounded to two decimal places.
 - Conversions are automatically added to the history list below.
-# Libraries Used:
+  
+# Libraries/Languages Used:
 
 - Flutter: The core framework for building the app as well as Dart.
 - Flutter Material: Provides the UI components and design principles.
-Contributing:
+- C++
+- Swift
+  
+# Contributing:
 
 We encourage contributions to improve this app. Feel free to fork the repository, make changes, and submit pull requests.
