@@ -23,7 +23,7 @@ This Flutter app provides a user-friendly interface for converting temperatures 
 - Conversions are automatically added to the history list below.
 # Libraries Used:
 
-- Flutter: The core framework for building the app.
+- Flutter: The core framework for building the app as well as Dart.
 - Flutter Material: Provides the UI components and design principles.
 Contributing:
 
